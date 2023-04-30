@@ -3,7 +3,7 @@ which technologies are in most demand for various different queries.
 
 This project is based off -> py-linkedin-jobs-scraper ----> https://github.com/spinlud/py-linkedin-jobs-scraper
 
-This project also uses nltk to unnecessary data.
+This project also uses nltk to cleanup unnecessary data.
 
 What to expect:
 
