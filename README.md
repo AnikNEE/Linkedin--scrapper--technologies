@@ -11,4 +11,10 @@ Run makeData.py with LI_AT token, This should fill the description.txt file with
 Afterwards run processText.py to clean up the data.
 
 You should get an output that is an array of different job posting, sorted based based on which keyword appears the most
+
+I plan to improve the detection of unnecessary words and removal...
+
+Anybody willing to contribute is free to do it!
+
+So Contribute, Go I won't stop you.
  
